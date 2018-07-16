@@ -1,40 +1,88 @@
-# 面向数据科学的概率论 中文版
+# 面向数据科学的概率论
 
-原书：[prob140/textbook](https://github.com/prob140/textbook/)
+> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-译者：[飞龙](https://github.com/wizardforcel)
+* 原文：[prob140/textbook](https://nbviewer.jupyter.org/github/prob140/textbook/tree/gh-pages/notebooks/)
+* **[ApacheCN - 学习机器学习群【629470233】](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)**
+* **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache 中文网）](http://www.apachecn.org/)**
+* **[UCB Data8 课本《计算与推断思维》](https://github.com/Kivy-CN/data8-textbook-zh)**
 
-<!--
-+ [在线阅读](https://www.gitbook.com/book/wizardforcel/prob140-textbook/details)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/prob140-textbook)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/prob140-textbook)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/prob140-textbook)
--->
+## 目录
 
-+ [代码仓库](https://github.com/Kivy-CN/prob140-textbook-zh)
++   一、基础
++   二、计算几率
++   三、随机变量
++   四、事件之间的关系
++   五、事件集合
++   六、随机计数
++   七、泊松化
++   八、期望
++   九、条件（续）
++   十、马尔科夫链
++   十一、马尔科夫链（续）
++   十二、标准差
++   十三、方差和协方差
++   十四、中心极限定理
++   十五、连续分布
++   十六、变换
++   十七、联合密度
++   十八、正态和 Gamma 族
++   十九、和的分布
++   二十、估计方法
++   二十一、Beta 和二项
++   二十二、预测
++   二十三、联合正态随机变量
++   二十四、简单线性回归
++   二十五、多元回归
 
-## 赞助我
+## 联系方式
 
-![](img/qr_alipay.png)
+### 负责人
 
-## 协议
+* [@飞龙](https://github.com/wizardforcel): 562826179
 
-[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+### 贡献者
 
-## KivyCN 学习资源
+| 标题 | 译者 | 校对者 |
+| --- | --- | --- |
+| 一、基础 | [@飞龙](https://github.com/wizardforcel) |
+| 二、计算几率 | [@飞龙](https://github.com/wizardforcel) |
+| 三、随机变量 | [@飞龙](https://github.com/wizardforcel) |
+| 四、事件之间的关系 |
+| 五、事件集合 |
+| 六、随机计数 |
+| 七、泊松化 |
+| 八、期望 |
+| 九、条件（续） |
+| 十、马尔科夫链 |
+| 十一、马尔科夫链（续） |
+| 十二、标准差 |
+| 十三、方差和协方差 |
+| 十四、中心极限定理 |
+| 十五、连续分布 |
+| 十六、变换 |
+| 十七、联合密度 |
+| 十八、正态和 Gamma 族 |
+| 十九、和的分布 |
+| 二十、估计方法 |
+| 二十一、Beta 和二项 |
+| 二十二、预测 |
+| 二十三、联合正态随机变量 |
+| 二十四、简单线性回归 |
+| 二十五、多元回归 |
 
-+   [Kivy 中文文档](https://github.com/Kivy-CN/Kivy-CN)
-+ [Think Python 中文第二版](https://github.com/Kivy-CN/ThinkPython-CN)
-+ [UCB CS61a 教材：SICP Python](https://github.com/Kivy-CN/sicp-py-zh)
-+ [Tutorialspoint NumPy 教程](https://github.com/Kivy-CN/ts-numpy-tut-zh)
-+ [Matplotlib 用户指南](https://github.com/Kivy-CN/matplotlib-user-guide-zh)
-+ [斯坦福 CS229 机器学习中文讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
-+ [Duke STA663 计算统计学中文讲义](https://github.com/Kivy-CN/Duke-STA-663-CN)
-+ [笨办法学 Python · 续](https://github.com/Kivy-CN/lmpythw-zh)
-+ [笨办法学 Linux](https://github.com/Kivy-CN/llthw-zh)
-+ [数据结构思维](https://github.com/Kivy-CN/think-dast-zh)
-+ [写给人类的机器学习](https://github.com/Kivy-CN/ml-for-humans-zh)
-+   [计算与推断思维 中文版](https://github.com/Kivy-CN/data8-textbook-zh/blob/master/README.md)
-+   [复杂性思考 中文第二版](https://github.com/Kivy-CN/think-comp-2e-zh)
-+   [MLAPP 中文笔记](https://github.com/Kivy-CN/MLAPP-CN)
-+   [数据科学的原理与技巧 中文版](https://github.com/Kivy-CN/ds100-textbook-zh)
+## 赞助我们
+
+![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
+
+## [ApacheCN 组织资源](http://www.apachecn.org/)
+
+| 深度学习 | 机器学习  | 大数据 | 运维工具 |
+| --- | --- | --- | --- |
+| [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122) | [机器学习实战-教学](https://github.com/apachecn/MachineLearning) | [Spark 2.2.0和2.0.2 中文文档](http://spark.apachecn.org/) | [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467) |
+| [Pytorch 0.3 中文文档](http://pytorch.apachecn.org) | [Sklearn 0.19 中文文档](http://sklearn.apachecn.org/) | [Storm 1.1.0和1.0.1 中文文档](http://storm.apachecn.org/) | [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377) |
+|  | [LightGBM 中文文档](http://lightgbm.apachecn.org/cn/latest) | [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) |  |
+|  | [XGBoost 中文文档](http://xgboost.apachecn.org/cn/latest)  | [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364) |
+|  | [kaggle: 机器学习竞赛](https://github.com/apachecn/kaggle) | [Beam 中文文档](http://beam.apachecn.org/) |
+|  | [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF) |  |
+|  | [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh) |  |
