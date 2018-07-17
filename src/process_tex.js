@@ -2,7 +2,7 @@ var fs = require('fs')
 var crypto = require('crypto')
 var request = require('sync-request')
 
-var doc_dir = '..'
+var doc_dir = '../docs'
 var img_dir = '../img'
 
 function processTex(md) {
@@ -16,7 +16,7 @@ function processTex(md) {
         var img = request('get', url).getBody()
         
         // replace_all
-        md = md.split(rm[0]).join(`![${tex}](img/tex-${tex_md5}.gif)`)
+        md = md.split(rm[0]).join(`![${tex}](../img/tex-${tex_md5}.gif)`)
         fs.writeFileSync(`${img_dir}/tex-${tex_md5}.gif`, img)
         
         console.log(tex_md5)
