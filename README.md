@@ -56,8 +56,8 @@
 | 九、条件（续） |
 | 十、马尔科夫链 | [@miao18](https://github.com/Yao544303) |
 | 十一、马尔科夫链（续） | [@miao18](https://github.com/Yao544303) |
-| 十二、标准差 |
-| 十三、方差和协方差 |
+| 十二、标准差 | [@cn-Wziv](https://github.com/cn-Wziv) |
+| 十三、方差和协方差 | [@cn-Wziv](https://github.com/cn-Wziv) |
 | 十四、中心极限定理 | [@miao18](https://github.com/Yao544303) |
 | 十五、连续分布 |
 | 十六、变换 |
