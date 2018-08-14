@@ -71,6 +71,10 @@
 | 二十四、简单线性回归 |
 | 二十五、多元回归 |
 
+## 贡献指南
+
+[请见这里](CONTRIBUTING.md)
+
 ## 赞助我们
 
 ![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
