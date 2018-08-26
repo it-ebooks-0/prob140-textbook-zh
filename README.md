@@ -61,7 +61,7 @@
 | 十四、中心极限定理 | [@miao18](https://github.com/Yao544303) |
 | 十五、连续分布 |
 | 十六、变换 |
-| 十七、联合密度 |
+| 十七、联合密度 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
 | 十八、正态和 Gamma 族 |
 | 十九、和的分布 |
 | 二十、估计方法 |
