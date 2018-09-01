@@ -48,7 +48,7 @@
 | 一、基础 | [@飞龙](https://github.com/wizardforcel) |
 | 二、计算几率 | [@飞龙](https://github.com/wizardforcel) |
 | 三、随机变量 | [@飞龙](https://github.com/wizardforcel) |
-| 四、事件之间的关系 |
+| 四、事件之间的关系 | [@biubiubiuboomboomboom](https://github.com/biubiubiuboomboomboom) |
 | 五、事件集合 |
 | 六、随机计数 |
 | 七、泊松化 |
