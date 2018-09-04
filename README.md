@@ -63,7 +63,7 @@
 | 十六、变换 |
 | 十七、联合密度 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
 | 十八、正态和 Gamma 族 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
-| 十九、和的分布 |
+| 十九、和的分布 | [@friedhelm739](https://github.com/friedhelm739) |
 | 二十、估计方法 |
 | 二十一、Beta 和二项 |
 | 二十二、预测 |
