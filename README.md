@@ -65,7 +65,7 @@
 | 十八、正态和 Gamma 族 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
 | 十九、和的分布 | [@friedhelm739](https://github.com/friedhelm739) |
 | 二十、估计方法 |
-| 二十一、Beta 和二项 |
+| 二十一、Beta 和二项 |[@小吕约炮](https://github.com/lvzhetx)
 | 二十二、预测 |
 | 二十三、联合正态随机变量 |
 | 二十四、简单线性回归 |
