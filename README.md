@@ -51,9 +51,9 @@
 | 四、事件之间的关系 | [@biubiubiuboomboomboom](https://github.com/biubiubiuboomboomboom) |
 | 五、事件集合 |
 | 六、随机计数 |
-| 七、泊松化 | ![@YAOYI626](https://github.com/YAOYI626) |
+| 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
 | 八、期望 |
-| 九、条件（续） | ![@YAOYI626](https://github.com/YAOYI626) |
+| 九、条件（续） | [@YAOYI626](https://github.com/YAOYI626) |
 | 十、马尔科夫链 | [@miao18](https://github.com/Yao544303) |
 | 十一、马尔科夫链（续） | [@miao18](https://github.com/Yao544303) |
 | 十二、标准差 | [@cn-Wziv](https://github.com/cn-Wziv) |
