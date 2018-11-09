@@ -51,7 +51,7 @@
 | 三、随机变量 | [@飞龙](https://github.com/wizardforcel) |
 | 四、事件之间的关系 | [@biubiubiuboomboomboom](https://github.com/biubiubiuboomboomboom) |
 | 五、事件集合 |
-| 六、随机计数 |
+| 六、随机计数 | [@viviwong](https://github.com/viviwong) |
 | 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
 | 八、期望 |
 | 九、条件（续） | [@YAOYI626](https://github.com/YAOYI626) |
@@ -66,7 +66,7 @@
 | 十八、正态和 Gamma 族 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
 | 十九、和的分布 | [@friedhelm739](https://github.com/friedhelm739) |
 | 二十、估计方法 |
-| 二十一、Beta 和二项 |[@小吕约炮](https://github.com/lvzhetx)
+| 二十一、Beta 和二项 |[@lvzhetx](https://github.com/lvzhetx)
 | 二十二、预测 |
 | 二十三、联合正态随机变量 |
 | 二十四、简单线性回归 |
