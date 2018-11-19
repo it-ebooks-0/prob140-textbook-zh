@@ -45,7 +45,7 @@
 ### 贡献者
 
 | 标题 | 译者 |
-| --- | --- | --- |
+| --- | --- |
 | 一、基础 | [@飞龙](https://github.com/wizardforcel) |
 | 二、计算几率 | [@飞龙](https://github.com/wizardforcel) |
 | 三、随机变量 | [@飞龙](https://github.com/wizardforcel) |
