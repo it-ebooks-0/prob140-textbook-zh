@@ -44,7 +44,7 @@
 
 ### 贡献者
 
-| 标题 | 译者 | 校对者 |
+| 标题 | 译者 |
 | --- | --- | --- |
 | 一、基础 | [@飞龙](https://github.com/wizardforcel) |
 | 二、计算几率 | [@飞龙](https://github.com/wizardforcel) |
@@ -66,8 +66,8 @@
 | 十八、正态和 Gamma 族 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
 | 十九、和的分布 | [@friedhelm739](https://github.com/friedhelm739) |
 | 二十、估计方法 |
-| 二十一、Beta 和二项 |[@lvzhetx](https://github.com/lvzhetx)
-| 二十二、预测 |
+| 二十一、Beta 和二项 | [@lvzhetx](https://github.com/lvzhetx) |
+| 二十二、预测 | [@lvzhetx](https://github.com/lvzhetx) |
 | 二十三、联合正态随机变量 |
 | 二十四、简单线性回归 |
 | 二十五、多元回归 | [@lanhaixuan](https://github.com/lanhaixuan) |
