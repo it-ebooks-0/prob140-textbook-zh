@@ -1,11 +1,12 @@
 # 面向数据科学的概率论
 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> 原文：[prob140/textbook](https://nbviewer.jupyter.org/github/prob140/textbook/tree/gh-pages/notebooks/)
+> 
+> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
-* 原文：[prob140/textbook](https://nbviewer.jupyter.org/github/prob140/textbook/tree/gh-pages/notebooks/)
-* **[ApacheCN - 学习机器学习群【629470233】](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)**
-* **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache 中文网）](http://www.apachecn.org/)**
-* **[UCB Data8 课本《计算与推断思维》](https://github.com/Kivy-CN/data8-textbook-zh)**
+* [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
+* [ApacheCN 学习资源](http://www.apachecn.org/)
+* [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 
 ## 目录
 
@@ -43,17 +44,17 @@
 
 ### 贡献者
 
-| 标题 | 译者 | 校对者 |
-| --- | --- | --- |
+| 标题 | 译者 |
+| --- | --- |
 | 一、基础 | [@飞龙](https://github.com/wizardforcel) |
 | 二、计算几率 | [@飞龙](https://github.com/wizardforcel) |
 | 三、随机变量 | [@飞龙](https://github.com/wizardforcel) |
-| 四、事件之间的关系 |
+| 四、事件之间的关系 | [@biubiubiuboomboomboom](https://github.com/biubiubiuboomboomboom) |
 | 五、事件集合 |
-| 六、随机计数 |
-| 七、泊松化 |
+| 六、随机计数 | [@viviwong](https://github.com/viviwong) |
+| 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
 | 八、期望 |
-| 九、条件（续） |
+| 九、条件（续） | [@YAOYI626](https://github.com/YAOYI626) |
 | 十、马尔科夫链 | [@miao18](https://github.com/Yao544303) |
 | 十一、马尔科夫链（续） | [@miao18](https://github.com/Yao544303) |
 | 十二、标准差 | [@cn-Wziv](https://github.com/cn-Wziv) |
@@ -62,18 +63,20 @@
 | 十五、连续分布 |
 | 十六、变换 |
 | 十七、联合密度 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
-| 十八、正态和 Gamma 族 |
-| 十九、和的分布 |
+| 十八、正态和 Gamma 族 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
+| 十九、和的分布 | [@friedhelm739](https://github.com/friedhelm739) |
 | 二十、估计方法 |
-| 二十一、Beta 和二项 |
-| 二十二、预测 |
+| 二十一、Beta 和二项 | [@lvzhetx](https://github.com/lvzhetx) |
+| 二十二、预测 | [@lvzhetx](https://github.com/lvzhetx) |
 | 二十三、联合正态随机变量 |
 | 二十四、简单线性回归 |
-| 二十五、多元回归 |
+| 二十五、多元回归 | [@lanhaixuan](https://github.com/lanhaixuan) |
 
 ## 贡献指南
 
 [请见这里](CONTRIBUTING.md)
+
+> 请您勇敢地去翻译和改进翻译。虽然我们追求卓越，但我们并不要求您做到十全十美，因此请不要担心因为翻译上犯错——在大部分情况下，我们的服务器已经记录所有的翻译，因此您不必担心会因为您的失误遭到无法挽回的破坏。（改编自维基百科）
 
 ## 赞助我们
 
