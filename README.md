@@ -53,7 +53,7 @@
 | 五、事件集合 |
 | 六、随机计数 | [@viviwong](https://github.com/viviwong) |
 | 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
-| 八、期望 |
+| 八、期望 | [@PEGASUS1993](https://github.com/PEGASUS1993) |
 | 九、条件（续） | [@YAOYI626](https://github.com/YAOYI626) |
 | 十、马尔科夫链 | [@miao18](https://github.com/Yao544303) |
 | 十一、马尔科夫链（续） | [@miao18](https://github.com/Yao544303) |
