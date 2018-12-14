@@ -55,7 +55,7 @@
 | 五、事件集合 |
 | 六、随机计数 | [@viviwong](https://github.com/viviwong) |
 | 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
-| 八、期望 |
+| 八、期望 | [@PEGASUS1993](https://github.com/PEGASUS1993) |
 | 九、条件（续） | [@YAOYI626](https://github.com/YAOYI626) |
 | 十、马尔科夫链 | [@miao18](https://github.com/Yao544303) |
 | 十一、马尔科夫链（续） | [@miao18](https://github.com/Yao544303) |
@@ -67,7 +67,7 @@
 | 十七、联合密度 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
 | 十八、正态和 Gamma 族 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
 | 十九、和的分布 | [@friedhelm739](https://github.com/friedhelm739) |
-| 二十、估计方法 |
+| 二十、估计方法 | [@friedhelm739](https://github.com/friedhelm739) |
 | 二十一、Beta 和二项 | [@lvzhetx](https://github.com/lvzhetx) |
 | 二十二、预测 | [@lvzhetx](https://github.com/lvzhetx) |
 | 二十三、联合正态随机变量 |
@@ -82,4 +82,4 @@
 
 ## 赞助我们
 
-![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
+<img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
