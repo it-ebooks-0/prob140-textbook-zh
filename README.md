@@ -2,11 +2,14 @@
 
 > 原文：[prob140/textbook](https://nbviewer.jupyter.org/github/prob140/textbook/tree/gh-pages/notebooks/)
 > 
+> 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+> 
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
 * [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 * [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
+* [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
 
 ## 目录
 
@@ -53,7 +56,7 @@
 | 五、事件集合 |
 | 六、随机计数 | [@viviwong](https://github.com/viviwong) |
 | 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
-| 八、期望 |
+| 八、期望 | [@PEGASUS1993](https://github.com/PEGASUS1993) |
 | 九、条件（续） | [@YAOYI626](https://github.com/YAOYI626) |
 | 十、马尔科夫链 | [@miao18](https://github.com/Yao544303) |
 | 十一、马尔科夫链（续） | [@miao18](https://github.com/Yao544303) |
@@ -80,16 +83,4 @@
 
 ## 赞助我们
 
-![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
-
-## [ApacheCN 组织资源](http://www.apachecn.org/)
-
-| 深度学习 | 机器学习  | 大数据 | 运维工具 |
-| --- | --- | --- | --- |
-| [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122) | [机器学习实战-教学](https://github.com/apachecn/MachineLearning) | [Spark 2.2.0和2.0.2 中文文档](http://spark.apachecn.org/) | [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467) |
-| [Pytorch 0.3 中文文档](http://pytorch.apachecn.org) | [Sklearn 0.19 中文文档](http://sklearn.apachecn.org/) | [Storm 1.1.0和1.0.1 中文文档](http://storm.apachecn.org/) | [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377) |
-|  | [LightGBM 中文文档](http://lightgbm.apachecn.org/cn/latest) | [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) |  |
-|  | [XGBoost 中文文档](http://xgboost.apachecn.org/cn/latest)  | [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364) |
-|  | [kaggle: 机器学习竞赛](https://github.com/apachecn/kaggle) | [Beam 中文文档](http://beam.apachecn.org/) |
-|  | [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF) |  |
-|  | [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh) |  |
+<img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
