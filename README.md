@@ -53,7 +53,7 @@
 | 二、计算几率 | [@飞龙](https://github.com/wizardforcel) |
 | 三、随机变量 | [@飞龙](https://github.com/wizardforcel) |
 | 四、事件之间的关系 | [@biubiubiuboomboomboom](https://github.com/biubiubiuboomboomboom) |
-| 五、事件集合 |
+| 五、事件集合 | [@PEGASUS1993](https://github.com/PEGASUS1993) |
 | 六、随机计数 | [@viviwong](https://github.com/viviwong) |
 | 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
 | 八、期望 | [@PEGASUS1993](https://github.com/PEGASUS1993) |
