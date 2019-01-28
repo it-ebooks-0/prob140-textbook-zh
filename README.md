@@ -72,7 +72,7 @@
 | 二十一、Beta 和二项 | [@lvzhetx](https://github.com/lvzhetx) |
 | 二十二、预测 | [@lvzhetx](https://github.com/lvzhetx) |
 | 二十三、联合正态随机变量 |
-| 二十四、简单线性回归 |
+| 二十四、简单线性回归 | [@ThomasCai](https://github.com/ThomasCai) |
 | 二十五、多元回归 | [@lanhaixuan](https://github.com/lanhaixuan) |
 
 ## 贡献指南
