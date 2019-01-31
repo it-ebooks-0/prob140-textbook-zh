@@ -39,41 +39,9 @@
 +   二十四、简单线性回归
 +   二十五、多元回归
 
-## 联系方式
-
-### 负责人
+## 负责人
 
 * [@飞龙](https://github.com/wizardforcel): 562826179
-
-### 贡献者
-
-| 标题 | 译者 |
-| --- | --- |
-| 一、基础 | [@飞龙](https://github.com/wizardforcel) |
-| 二、计算几率 | [@飞龙](https://github.com/wizardforcel) |
-| 三、随机变量 | [@飞龙](https://github.com/wizardforcel) |
-| 四、事件之间的关系 | [@biubiubiuboomboomboom](https://github.com/biubiubiuboomboomboom) |
-| 五、事件集合 | [@PEGASUS1993](https://github.com/PEGASUS1993) |
-| 六、随机计数 | [@viviwong](https://github.com/viviwong) |
-| 七、泊松化 | [@YAOYI626](https://github.com/YAOYI626) |
-| 八、期望 | [@PEGASUS1993](https://github.com/PEGASUS1993) |
-| 九、条件（续） | [@YAOYI626](https://github.com/YAOYI626) |
-| 十、马尔科夫链 | [@miao18](https://github.com/Yao544303) |
-| 十一、马尔科夫链（续） | [@miao18](https://github.com/Yao544303) |
-| 十二、标准差 | [@cn-Wziv](https://github.com/cn-Wziv) |
-| 十三、方差和协方差 | [@cn-Wziv](https://github.com/cn-Wziv) |
-| 十四、中心极限定理 | [@miao18](https://github.com/Yao544303) |
-| 十五、连续分布 |
-| 十六、变换 |
-| 十七、联合密度 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
-| 十八、正态和 Gamma 族 | [@Winchester-Yi](https://github.com/Winchester-Yi) |
-| 十九、和的分布 | [@friedhelm739](https://github.com/friedhelm739) |
-| 二十、估计方法 | [@friedhelm739](https://github.com/friedhelm739) |
-| 二十一、Beta 和二项 | [@lvzhetx](https://github.com/lvzhetx) |
-| 二十二、预测 | [@lvzhetx](https://github.com/lvzhetx) |
-| 二十三、联合正态随机变量 |
-| 二十四、简单线性回归 | [@ThomasCai](https://github.com/ThomasCai) |
-| 二十五、多元回归 | [@lanhaixuan](https://github.com/lanhaixuan) |
 
 ## 贡献指南
 
