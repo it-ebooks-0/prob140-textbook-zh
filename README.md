@@ -1,4 +1,4 @@
-# 面向数据科学的概率论
+# UCB Prob140 面向数据科学的概率论
 
 > 原文：[prob140/textbook](https://nbviewer.jupyter.org/github/prob140/textbook/tree/gh-pages/notebooks/)
 > 
